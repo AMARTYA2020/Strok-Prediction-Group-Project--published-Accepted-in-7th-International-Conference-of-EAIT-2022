@@ -1,3 +1,3 @@
 # Strok-Prediction-Group-Project
 Algorithms Involved:
-Decision Tree
+Decision Tree, Support Vector Machine
